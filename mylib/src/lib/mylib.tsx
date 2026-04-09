@@ -4,6 +4,7 @@ export function TestComMylib() {
   const defaultVal = 'This is test message';
   useEffect(() => {
     //add logic here for init
+    console.log('you are inside test comlib');
   });
 
   return (
