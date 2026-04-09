@@ -2,7 +2,7 @@ export function TestComMylib() {
   const defaultVal = 'This is test message';
   return (
     <div>
-      <h1>Welcome to TestComMylib! {defaultVal}</h1>
+      <h1>Welcome to {defaultVal}</h1>
     </div>
   );
 }
