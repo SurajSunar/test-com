@@ -9,7 +9,7 @@ export function TestComMylib() {
 
   return (
     <div>
-      <h1>Welcome to {defaultVal}</h1>
+      <h1 className="text-slate-500 text-xl">Welcome to {defaultVal}</h1>
     </div>
   );
 }
